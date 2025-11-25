@@ -1,0 +1,109 @@
+Q1) What is SDLC ? 
+Ans : SDLC stands for Software Development Life Cycle.
+     -The Software Development Life Cycle is the Process of Developing Software.
+     -Each Part of the cycle has an entry and exit criteria along with the expected Output.
+     -The steps are in the following Order:
+       1) Requirement Gathering
+       2) Designing
+       3) Coding/implementation
+       4) Testing
+       5) Deployment
+       6) Support and Maintenance
+
+Q2) What is STLC ? 
+Ans : STLC stands for Software Testing Life Cycle.
+     - The STLC is the Software Testing process of the SDLC (Software Development Life Cycle).
+     - The Purpose of the Life Cycle is the Process of testing and finding errors to ensure the quality of a product.
+     - Each Part of the cycle has an entry and exit criteria along with the expected Output.
+     - The steps are in the following Order:
+       1) Requirement Gathering
+       2) Test Planning.
+       3) Test Case Development.
+       4) Setting Up Environments.
+       5) Test Execution.
+       6) Test Closure.
+ 
+Q3) What is Test Plan ? 
+Ans : A test plan is a blueprint for running tests to ensure that software is working as expected. 
+     - The detailed documentation should include the testing scope, strategy, objectives, schedules, estimations, resources required, and deadlines for a Project. 
+
+Q4) What is Use Case ? 
+Ans : A Use Case is a Description of how a person who uses a system or process will accomplish a goal.
+     - Use cases help identify test cases to cover a System.
+
+Q5) What types of Testing are you familiar with ?  
+Ans : 1) Regression Testing
+      2) Functional Testing
+      3) Non-Functional Testing
+      4) Load Testing 
+      5) Integration Testing
+      6) Unit Testing
+      7) Black-Box Testing
+      8) White-Box Testing
+      9) Cross-Browser Testing
+
+Q6) What are some benefits of manual over automation testing ?  
+Ans : - For applications or features that only need to be tested once, it may be faster and more cost-effective to run a manual test instead of setting up an automation test.
+      - UI(User Interface) testing can be more accurate because you are getting the real feel of an end-user experience.
+      - In Manual testing, you may be able to see things visually that look off with a web page that an automation tool may not be able to capture.
+
+
+Q7) What is the difference between Functional Testing & Non-Functional Testing ?  
+Ans : A) Functional Testing tests the functionality of an application and is based on the business requirements or specifications.
+     - It usually focuses on the input and output of the system.
+     - It focuses on if a user presses a button to submit a form(input), a test will confirm that the form was submitted and a response message was given to user(Output).
+     - Types of functional testing include:
+        a) Unit Testing.
+        b) Application Testing.
+
+      B) Non-Functional Testing tests the behaviour of an application and is based on the customer expectations and performance requirements.
+     - It usually focuses more on the end user's experience while using an application.
+     - It focuses on how a system or application performs in different scenarios.
+     - An example of Non-Functional testing would be if a million people are using an application at the same time, does it still perform well enough not to mess up the end user's experience?
+     - Types of non-functional testing include performance testing, load testing, and security testing.
+
+
+Q8) What is a Bug ? 
+Ans : A bug is any kind of error, failure, or unexpected response that prevents a software or application from functioning as expected.
+
+
+Q9) What are your Career goals ? 
+Ans : - I am excited to learn and grow in the field which is why I feel this opportunity will be great for my development. 
+      - I would be able to grow with your company while also being a valuable contribution to your team.
+      - I hope to continue to gain more experience in the field and possibly advance into a more leadership or senior role
+        where I can mentor and help people who are new to the field.
+
+
+Q10) Write a test case for this pen.
+Ans : Focus on these main parts of a test case : 
+      1) Title
+      2) Description
+      3) Precondition
+      4) Assumption
+      5) Test Steps
+      6) Expected Result
+      Now, let's break down for our situation.
+
+      1) Title : Make Sure pen writes on paper
+      2) Description : A person using this pen should be able to use it to write on a piece of paper.
+      3) Pre-condition : A user must have a pen that has ink in it and a piece of paper.
+      4) Assumption : The user knows how to write.
+      5) Test Steps : 
+         a) Pick up a pen.
+         b) Place a piece of paper close enough to you to write on.
+         c) Write a list of names on the piece of paper.
+         d) Write numbers on the piece of paper.
+      6) Expected Result : The piece of paper now has a list of names and numbers on the paper.
+
+
+    
+
+
+
+
+
+
+
+
+
+
