@@ -1,2 +1,2 @@
-# QA-interview-Questions-and-Answers
-every thing clear
+# QA-interview-Questions-and-Answers 
+#every thing clear
