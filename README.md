@@ -1,2 +1,2 @@
 # QA-interview-Questions-and-Answers 
-#every thing clear
+#every thing is clear and simple to understand 
